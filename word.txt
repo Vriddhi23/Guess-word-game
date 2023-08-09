@@ -1,0 +1,6 @@
+#add as many as word you want
+karel
+console
+guess
+word
+game
